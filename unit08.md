@@ -87,6 +87,10 @@ This connects to the research agent I built for this module. The agent does not 
 
 The required reading for this unit, Zimmerman (2019), uses dependency trees rather than constituency trees. In a dependency tree the links run between words and there are no phrase nodes. The attachment ambiguity in sentence 3 shows up there as well, as the question of whether "with" depends on "saw" or on "dog".
 
+## AI acknowledgement
+
+Generative AI (Claude) helped me draft and edit this page and write `draw_trees.py`, the script that draws the trees. The full statement is on the [home page](index.html#ai-acknowledgement).
+
 ## References
 
 Jurafsky, D. and Martin, J.H. (2023) 'Context-free grammars and constituency parsing', in *Speech and language processing*. 3rd edn, draft of 7 January 2023, chapter 17. Available at: https://web.stanford.edu/~jurafsky/slp3/old_jan23/17.pdf (Accessed: 13 October 2026).

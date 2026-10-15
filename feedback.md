@@ -34,3 +34,7 @@ My summary posts answer each of them; they are on the [discussions](forums.html)
 ## Feedback within the team
 
 Lara reviewed my class diagram and pointed out the missing boundary class for the researcher. I added it. That was the one piece of direct feedback on my work inside the team, and it was right.
+
+## AI acknowledgement
+
+Generative AI (Claude) helped me draft and edit this page. The full statement is on the [home page](index.html#ai-acknowledgement).

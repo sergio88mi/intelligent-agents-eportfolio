@@ -109,6 +109,10 @@ Even this short exchange depends on a lot of agreement made in advance. Alice an
 
 It also made me compare with my research agent. There the orchestrator calls each agent through an ordinary Python method, and the nearest thing to an agreed content language is the JSON schema that every model reply is checked against. Writing this dialogue showed me what the schema does not cover. It fixes the shape of an answer, but not what its words mean, which is the job of an ontology.
 
+## AI acknowledgement
+
+Generative AI (Claude) helped me draft and edit this page. The full statement is on the [home page](index.html#ai-acknowledgement).
+
 ## References
 
 External Interfaces Working Group (1993) *Specification of the KQML agent-communication language plus example agent policies and architectures*. Draft, 15 June. DARPA Knowledge Sharing Initiative. Available at: https://research.cs.umbc.edu/kqml/papers/kqmlspec.pdf (Accessed: 12 October 2026).

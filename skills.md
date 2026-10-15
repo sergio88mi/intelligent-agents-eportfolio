@@ -30,3 +30,7 @@ The eleven skills are the ones the module lists for the e-portfolio. The self-as
 3. **Checkable reasons.** Make the model quote the abstract for every paper it keeps and have the code verify the quote, so that every explanation carries something a program can test.
 4. **Two calls per team project.** One at the start to agree the split, one before the internal deadline to catch what is late. Keep the chat and the shared folder, which worked.
 5. **Retry and stop rules first.** Write the transient-error retry, the quota stop and the logging before the first call to any paid or rate-limited service, so that the first failure is recorded rather than lost.
+
+## AI acknowledgement
+
+Generative AI (Claude) helped me draft and edit this page. The full statement is on the [home page](index.html#ai-acknowledgement).

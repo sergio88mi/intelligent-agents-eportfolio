@@ -7,7 +7,7 @@ title: Research agent
 
 # Individual project: the research agent
 
-Code, README, tests and evidence: [github.com/sergio88mi/research-agent](https://github.com/sergio88mi/research-agent). The ten-slide presentation and its transcript are in the repository's `presentation/` folder.
+Code, README, tests and evidence: [github.com/sergio88mi/research-agent](https://github.com/sergio88mi/research-agent). Presentation: [slides (PDF)](assets/Research_Agent_Presentation.pdf) and [transcript (PDF)](assets/Research_Agent_Presentation_Transcript.pdf). The original files are in the repository's `presentation/` folder.
 
 ## What it does
 
@@ -39,4 +39,10 @@ Most problems came from outside the code. The first call to Gemini returned a 40
 
 **What I think of it.** Against Wooldridge and Jennings (1995), the Retrieval Agent is a well-structured function with a goal check. It pursues a target and reacts to what a search returns, but its social ability is handing results to the orchestrator. What made it worth separating was the failover across two sources, not autonomy. The system is honest about what it cannot do, which is the quality I most wanted it to have, and it is not yet evaluated against people, which is the gap I most want to close.
 
-Reference: Wooldridge, M. and Jennings, N.R. (1995) 'Intelligent agents: theory and practice', *The Knowledge Engineering Review*, 10(2), pp. 115–152. Available at: https://doi.org/10.1017/S0269888900008122
+## AI acknowledgement
+
+Generative AI (Claude) helped me draft and edit this page, and helped me write, test and document the code and evidence in the repository. The full statement is on the [home page](index.html#ai-acknowledgement).
+
+## Reference
+
+Wooldridge, M. and Jennings, N.R. (1995) 'Intelligent agents: theory and practice', *The Knowledge Engineering Review*, 10(2), pp. 115–152. Available at: https://doi.org/10.1017/S0269888900008122

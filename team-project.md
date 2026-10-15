@@ -32,3 +32,7 @@ What I would do differently is small and concrete: a short call at the start and
 ## After the proposal
 
 Each of us then had to build the design on our own. Lana, Dragos and Lara, whose posts I answered in the discussions, were building their own versions at the same time. Reading their forum posts in October, after I had built mine, was the closest the team came to a design review. Dragos's test for the difference between a method call and an agent message, and Lara's point about fairness being built in throughout development, both changed how I describe my own system.
+
+## AI acknowledgement
+
+Generative AI (Claude) helped me draft and edit this page. The full statement is on the [home page](index.html#ai-acknowledgement).

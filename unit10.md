@@ -33,6 +33,10 @@ The model is a graph neural network. The globe is represented as a mesh of point
 
 **Who is accountable.** When a physical model gets a storm wrong, meteorologists can trace the error to an equation or an input. A learned model offers no such explanation. If a port closes, or does not close, on the strength of a forecast that no one can inspect, the question of responsibility is open. I think the answer is the same as for the agent I built this term: keep the conventional system running alongside, compare them, and keep a person in the decision for anything that is expensive to get wrong.
 
+### AI acknowledgement
+
+Generative AI (Claude) helped me draft and edit this page. The full statement is on the [home page](index.html#ai-acknowledgement).
+
 ### References
 
 Ben Bouallègue, Z. et al. (2024) 'The rise of data-driven weather forecasting: a first statistical assessment of machine learning–based weather forecasts in an operational-like context', *Bulletin of the American Meteorological Society*, 105(6), pp. E864–E883. Available at: https://doi.org/10.1175/BAMS-D-23-0162.1
