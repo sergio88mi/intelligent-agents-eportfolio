@@ -89,8 +89,7 @@ The required reading for this unit, Zimmerman (2019), uses dependency trees rath
 
 ## AI acknowledgement
 
-Generative AI (Claude) helped me draft and edit this page and write `draw_trees.py`, the script that draws the trees. The full statement is on the [home page](index.html#ai-acknowledgement).
-
+This declaration applies to the whole Intelligent Agents e-portfolio, including this page and all artefact pages it links to. I used generative AI tools (Grammarly and Claude) to proofread, improve wording and help with formatting. The analysis, interpretation, conclusions and recommendations throughout are my own.
 ## References
 
 Jurafsky, D. and Martin, J.H. (2023) 'Context-free grammars and constituency parsing', in *Speech and language processing*. 3rd edn, draft of 7 January 2023, chapter 17. Available at: https://web.stanford.edu/~jurafsky/slp3/old_jan23/17.pdf (Accessed: 13 October 2026).

@@ -33,4 +33,4 @@ The eleven skills are the ones the module lists for the e-portfolio. The self-as
 
 ## AI acknowledgement
 
-Generative AI (Claude) helped me draft and edit this page. The full statement is on the [home page](index.html#ai-acknowledgement).
+This declaration applies to the whole Intelligent Agents e-portfolio, including this page and all artefact pages it links to. I used generative AI tools (Grammarly and Claude) to proofread, improve wording and help with formatting. The analysis, interpretation, conclusions and recommendations throughout are my own.

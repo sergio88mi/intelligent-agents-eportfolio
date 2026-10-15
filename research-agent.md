@@ -41,8 +41,7 @@ Most problems came from outside the code. The first call to Gemini returned a 40
 
 ## AI acknowledgement
 
-Generative AI (Claude) helped me draft and edit this page, and helped me write, test and document the code and evidence in the repository. The full statement is on the [home page](index.html#ai-acknowledgement).
-
+This declaration applies to the whole Intelligent Agents e-portfolio, including this page and all artefact pages it links to. I used generative AI tools (Grammarly and Claude) to proofread, improve wording and help with formatting. The analysis, interpretation, conclusions and recommendations throughout are my own.
 ## Reference
 
 Wooldridge, M. and Jennings, N.R. (1995) 'Intelligent agents: theory and practice', *The Knowledge Engineering Review*, 10(2), pp. 115–152. Available at: https://doi.org/10.1017/S0269888900008122

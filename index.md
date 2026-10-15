@@ -33,4 +33,4 @@ The reflective piece and the three reflective case studies are submitted through
 
 ## AI acknowledgement
 
-This statement covers the Intelligent Agents e-portfolio in full: this page, every page linked from it, and the submitted document. Generative AI (Claude) was used to help draft and edit the text and to help write, test and document the code. I set the tasks, checked the output and take responsibility for all of it.
+This declaration applies to the whole Intelligent Agents e-portfolio, including this page and all artefact pages it links to. I used generative AI tools (Grammarly and Claude) to proofread, improve wording and help with formatting. The analysis, interpretation, conclusions and recommendations throughout are my own.
