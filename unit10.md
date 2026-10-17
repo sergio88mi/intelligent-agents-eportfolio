@@ -7,7 +7,7 @@ title: Unit 10 activity
 
 # Unit 10 – Deep Learning in Action
 
-Activity: research an application of deep learning that will have an impact on society, and make a post on the discussion forum that covers what the technology does, how it works, and its ethical, privacy, social and other socio-technical impacts. This is the post.
+The task for this unit was to research an application of deep learning that will have an impact on society and to write a post covering what the technology does, how it works, and its ethical, privacy, social and other socio-technical impacts. This is what I wrote. I did not post it on the forum.
 
 ## Deep learning for weather forecasting: GraphCast
 
