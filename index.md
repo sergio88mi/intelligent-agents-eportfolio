@@ -25,7 +25,7 @@ This portfolio collects my work for the Intelligent Agents module: the team desi
 
 - Code: [github.com/sergio88mi/research-agent](https://github.com/sergio88mi/research-agent) (README, tests, evidence folder, slides and transcript)
 - Presentation: [slides (PDF)](assets/Research_Agent_Presentation.pdf) and [transcript (PDF)](assets/Research_Agent_Presentation_Transcript.pdf)
-- Team design proposal: Group D, *Project report*, submitted 7 September 2026 ([PDF](assets/Project_Report_Group_D.pdf))
+- Team design proposal: Group D, *Project report*, submitted 4 September 2026 ([PDF](assets/Project_Report_Group_D.pdf))
 
 ## Reflective submission
 

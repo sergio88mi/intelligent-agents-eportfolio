@@ -11,7 +11,7 @@ title: Team project
 
 Group D (Lana Menezes Fidelis, Lara Koller, Dragos Hont and me) proposed a research agent for academic literature search. A researcher gives it a question. A Planning Agent breaks the question into sub-questions and search queries, a Retrieval Agent searches a scholarly index, and an Evaluation and Synthesis Agent scores the papers and writes an evidence brief. A deterministic orchestrator, which is not an agent, runs the steps in order, de-duplicates records, checks every DOI against Crossref and saves the brief. The researcher approves the plan before any search and the evidence before any writing.
 
-The report ([PDF](assets/Project_Report_Group_D.pdf)) was submitted on 7 September 2026 (Unit 6) and received 64% (Merit). The full feedback is on the [feedback](feedback.html) page.
+The report ([PDF](assets/Project_Report_Group_D.pdf)) was submitted on 4 September 2026 (Unit 6) and received 64% (Merit). The full feedback is on the [feedback](feedback.html) page.
 
 ## My contribution
 
